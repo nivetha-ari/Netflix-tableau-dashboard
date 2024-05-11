@@ -1,4 +1,4 @@
-# Netflix-tableau-dashboard**
+# Netflix-tableau-dashboard
 
 **Overview**:
 
